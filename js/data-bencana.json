@@ -1,0 +1,62 @@
+[
+  {
+    "jenis": "banjir",
+    "lokasi": "Kec. Meuraxa, Banda Aceh",
+    "status": "Pemulihan",
+    "waktu": "1 hari lalu",
+    "koordinat": [
+      -5.5577,
+      95.3222
+    ]
+  },
+  {
+    "jenis": "banjir",
+    "lokasi": "Kec. Jaya Baru, Banda Aceh",
+    "status": "Selesai",
+    "waktu": "2 hari lalu",
+    "koordinat": [
+      -5.5651,
+      95.3282
+    ]
+  },
+  {
+    "jenis": "kebakaran",
+    "lokasi": "Kec. Syiah Kuala, Banda Aceh",
+    "status": "Ditangani",
+    "waktu": "2 jam lalu",
+    "koordinat": [
+      -5.5742,
+      95.3193
+    ]
+  },
+  {
+    "jenis": "kebakaran",
+    "lokasi": "Kec. Kuta Alam, Banda Aceh",
+    "status": "Selesai",
+    "waktu": "5 jam lalu",
+    "koordinat": [
+      -5.5607,
+      95.3401
+    ]
+  },
+  {
+    "jenis": "gempa",
+    "lokasi": "Lepas Pantai Aceh Barat",
+    "status": "Magnitudo 4.7",
+    "waktu": "3 hari lalu",
+    "koordinat": [
+      -4.998,
+      94.992
+    ]
+  },
+  {
+    "jenis": "gempa",
+    "lokasi": "Pidie Jaya",
+    "status": "Magnitudo 3.2",
+    "waktu": "5 hari lalu",
+    "koordinat": [
+      5.1492,
+      96.1326
+    ]
+  }
+]
